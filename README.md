@@ -1,6 +1,6 @@
 # Hi, I'm Aidan Urbina <img src="https://github.com/abdoachhoubi/abdoachhoubi/blob/main/gifs/Hi.gif" width="30"></h2>
 ## 🎓 About me
-I'm a college student studying Computer Science at Mankato State University.
+I'm a college student studying Computer Science at Minnesota State University, Mankato.
 
 ## 🛠 Skills
 - 📋 Languages: 
