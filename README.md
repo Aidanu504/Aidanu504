@@ -27,7 +27,8 @@ I'm a college student studying Computer Science at Minnesota State University, M
 
 ## 📚 Projects
 - [Space Chicken - VR multiplayer game](https://github.com/HeyoItsAaron/SpaceChicken122)
-- [The Hidden Village Online V0.4](https://github.com/JThoe26/hidden_village_v0.4/tree/Firebase_data_handling)
+- [The Hidden Village V0.4](https://github.com/JThoe26/hidden_village_v0.4/tree/Firebase_data_handling)
+    - [Export application for The Hidden Village V0.4](https://github.com/Aidanu504/Firebase-Export)
 
 ## 📫 Contact info
 - Personal email: Aidanurbina504@gmail.com
