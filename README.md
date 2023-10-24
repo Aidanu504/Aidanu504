@@ -20,11 +20,11 @@ I'm a college student studying Computer Science at Minnesota State University, M
     
 
 
-- 👩‍💻 IDE
+- 👩‍💻 IDE and code editors
     
     ![Visual Studio](https://img.shields.io/badge/Visual_Studio-5C2D91?style=for-the-badge&logo=visual%20studio&logoColor=white)
     ![Visual Studio Code](https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white)
-    ![Visual Studio Code](https://img.shields.io/badge/PyCharm-000000.svg?&style=for-the-badge&logo=PyCharm&logoColor=white)
+    ![PyCharm](https://img.shields.io/badge/PyCharm-000000.svg?&style=for-the-badge&logo=PyCharm&logoColor=white)
 
 ## 📚 Projects
 - [Space Chicken - VR multiplayer game](https://github.com/HeyoItsAaron/SpaceChicken122)
