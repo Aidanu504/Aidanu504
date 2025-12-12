@@ -1,6 +1,6 @@
 # Hi, I'm Aidan Urbina <img src="https://github.com/abdoachhoubi/abdoachhoubi/blob/main/gifs/Hi.gif" width="30"></h2>
 ## 🎓 About me
-I'm a Computer Science student at **Minnesota State University, Mankato**, graduating Fall 2025.  
+Computer Science graduate from Minnesota State University, Mankato, currently working full time as a software developer.
 
 ## 🛠 Skills
 - 📋 Languages: 
@@ -8,6 +8,7 @@ I'm a Computer Science student at **Minnesota State University, Mankato**, gradu
     ![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white)
     ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
     ![SQL](https://img.shields.io/badge/SQL-003B57?style=for-the-badge&logo=postgresql&logoColor=white)
+    ![Go](https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white)
     ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
     ![JavaScript](https://img.shields.io/badge/JavaScript%20-%23F7DF1E.svg?style=for-the-badge&logo=javascript&logoColor=black)
 
@@ -15,6 +16,7 @@ I'm a Computer Science student at **Minnesota State University, Mankato**, gradu
       ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
       ![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)
       ![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)
+      ![htmx](https://img.shields.io/badge/htmx-3366CC?style=for-the-badge&logo=htmx&logoColor=white)
       ![Mediapipe](https://img.shields.io/badge/Mediapipe-4285F4?style=for-the-badge&logo=google&logoColor=white)
       ![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
       ![Keras](https://img.shields.io/badge/Keras-D00000?style=for-the-badge&logo=keras&logoColor=white)
@@ -91,8 +93,7 @@ I'm a Computer Science student at **Minnesota State University, Mankato**, gradu
   [DOI: 10.1109/NETCRYPT65877.2025.11102595](https://doi.org/10.1109/NETCRYPT65877.2025.11102595)
 
 ## 📫 Contact info
-- Personal: [Aidanurbina504@gmail.com](mailto:Aidanurbina504@gmail.com)  
-- School: [Aidan.Urbina@mnsu.edu](mailto:Aidan.Urbina@mnsu.edu)  
+- Personal: [Aidanurbina504@gmail.com](mailto:Aidanurbina504@gmail.com)    
 - LinkedIN: [LinkedIn](https://www.linkedin.com/in/aidanurbina)
   
 <!--
