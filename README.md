@@ -2,15 +2,6 @@
 
 Software developer building backend services in Go and Python. I spend most of my time writing APIs, wrangling PostgreSQL, and keeping Linux servers running on DigitalOcean. B.S. Computer Science from Minnesota State University, Mankato.
 
-<p align="center">
-  <a href="https://github.com/Aidanu504">
-    <img src="https://github-readme-stats.vercel.app/api?username=Aidanu504&show_icons=true&theme=default&hide_border=true&count_private=true" alt="GitHub Stats" height="165" />
-  </a>
-  <a href="https://github.com/Aidanu504">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Aidanu504&layout=compact&hide_border=true&langs_count=8" alt="Top Languages" height="165" />
-  </a>
-</p>
-
 ---
 
 ## 🛠 Skills
