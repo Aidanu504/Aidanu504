@@ -3,8 +3,15 @@
 Software developer building backend services in Go and Python. I spend most of my time writing APIs, wrangling PostgreSQL, and keeping Linux servers running on DigitalOcean. B.S. Computer Science from Minnesota State University, Mankato.
 
 ---
+## ⭐ Featured: [sparQ](https://github.com/gosparq/sparq)
+`Python` `Flask` `htmx` `SQLite` `Docker`
+
+sparQ is an open-source, self-hostable developer-experience suite for teams that live on GitHub (AGPL v3). Its first product, **Pulse**, is a GitHub-native project management tool: async standups, team presence, and delivery visibility, with status updates that fill themselves in from your git activity so nobody retypes what they already did. Runs on SQLite out of the box, so `docker compose up` gets you the whole thing locally.
+
+[Repo](https://github.com/gosparq/sparq) · [Website](https://www.gosparq.com)
 
 ## 🛠 Skills
+---
 
 **Languages**
 
