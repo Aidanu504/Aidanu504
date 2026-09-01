@@ -19,6 +19,14 @@ Open-source, self-hostable developer-experience suite for teams that live on Git
 
 [Repo](https://github.com/gosparq/sparq) · [Website](https://www.gosparq.com)
 
+### [Supremely](https://github.com/remarqable/supremely)
+
+`Python` `Flask` `htmx` `SQLite` `Docker` `AGPL-3.0`
+
+Open-source, self-hostable platform for running a community you actually own: publishing, memberships, newsletters, and discussions in one place instead of a blog, a forum and a mailing list stitched together. One install serves many organizations, each with its own domain, theme and members. Email is optional infrastructure throughout, so you can install it, publish, and onboard members with no mail service configured at all. Ships on SQLite, so `docker compose up` gets you the whole thing locally, with PostgreSQL a one-variable switch when you outgrow it.
+
+[Repo](https://github.com/remarqable/supremely) · [Website](https://supremely.org)
+
 ---
 
 ## Publications
